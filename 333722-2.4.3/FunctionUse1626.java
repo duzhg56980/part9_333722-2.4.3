@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.deser.DeserializerFactory;
+public class FunctionUse1626 {
+public void funcUse() {
+DeserializerFactory deserializerfactory = new DeserializerFactory();
+}
+}
